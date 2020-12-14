@@ -1,2 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[3],{201:function(e,n,t){"use strict";t.r(n);var i=t(0),o=t.n(i),a=t(4),c=t(188),l=t(193);n.default=Object(a.h)((function(){return Object(i.useEffect)((function(){var e,n,t;null===(e=insights)||void 0===e||null===(n=e.chrome)||void 0===n||null===(t=n.appAction)||void 0===t||t.call(n,"no-permissions")}),[]),o.a.createElement(c.Main,null,o.a.createElement(l.NotAuthorized,{serviceName:"Sample app"}))}))}}]);
-//# sourceMappingURL=NoPermissionsPage.js.map
