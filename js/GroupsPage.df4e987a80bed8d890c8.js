@@ -1,0 +1,2 @@
+(self.webpackChunkinsights_frontend_starter_app=self.webpackChunkinsights_frontend_starter_app||[]).push([[734],{7788:(e,t,n)=>{"use strict";n.r(t),n.d(t,{default:()=>a});var r=n(1427),s=n.n(r);const a=function(){return s().createElement("div",null,"Here will be groups!")}}}]);
+//# sourceMappingURL=GroupsPage.df4e987a80bed8d890c8.js.map
