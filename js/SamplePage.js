@@ -1,2 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[1],{161:function(e,n,t){"use strict";t.r(n);var r=t(0),u=t.n(r);n.default=function(){return u.a.createElement("div",null,"Here will be groups!")}},162:function(e,n,t){"use strict";t.r(n);var r=t(0),u=t.n(r),i=t(4);n.default=function(){var e=Object(i.g)().uuid;return u.a.createElement("div",null,"Here will be group detail of - ",e,"!")}}}]);
-//# sourceMappingURL=SamplePage.js.map
