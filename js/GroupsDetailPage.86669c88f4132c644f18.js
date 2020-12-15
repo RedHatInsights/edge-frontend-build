@@ -1,2 +1,0 @@
-(self.webpackChunkinsights_frontend_starter_app=self.webpackChunkinsights_frontend_starter_app||[]).push([[673],{2395:(e,t,r)=>{"use strict";r.r(t),r.d(t,{default:()=>u});var n=r(1427),s=r.n(n),a=r(5399);const u=function(){var e=(0,a.useParams)().uuid;return s().createElement("div",null,"Here will be group detail of - ",e,"!")}}}]);
-//# sourceMappingURL=GroupsDetailPage.86669c88f4132c644f18.js.map
