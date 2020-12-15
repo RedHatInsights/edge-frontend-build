@@ -1,1 +1,0 @@
-{"version":3,"sources":["webpack://insights-frontend-starter-app/./src/Routes/Groups/Groups.js"],"names":[],"mappings":"kMAMA,QAJe,WACb,OAAO","file":"js/GroupsPage.df4e987a80bed8d890c8.js","sourcesContent":["import React from 'react';\n\nconst Groups = () => {\n  return <div>Here will be groups!</div>;\n};\n\nexport default Groups;\n"],"sourceRoot":""}
