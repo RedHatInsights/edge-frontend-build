@@ -1,2 +1,0 @@
-(self.webpackChunkinsights_frontend_starter_app=self.webpackChunkinsights_frontend_starter_app||[]).push([[685],{68551:(n,r,t)=>{var e=t(22858),s=t(46860),p=t(60379),a=t(80521);n.exports=function(n){return e(n)||s(n)||p(n)||a()}},18446:(n,r,t)=>{var e=t(90939);n.exports=function(n,r){return e(n,r)}}}]);
-//# sourceMappingURL=685.8ded2e2d18ee4477439c.js.map
