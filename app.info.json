@@ -1,12 +1,12 @@
 {
   "app_name": "edge",
-  "src_hash": "2f43157f7a0b4f8a07ea92d1afc54dcfdab0e2f4",
+  "src_hash": "afdfc206b2c942cd8e09eb3eb66db4a8c333a2da",
   "src_tag": "",
   "src_branch": "master",
   "patternfly_dependencies": ["@patternfly/patternfly@4.70.2","@patternfly/react-charts@6.12.12","@patternfly/react-core@4.128.2","UNMET PEER DEPENDENCY @patternfly/react-icons@4.7.22","@patternfly/react-styles@4.7.22","@patternfly/react-table@4.19.45","@patternfly/react-tokens@4.9.22"],
   "travis": {
     "event_type": "push",
-    "build_number": "179",
-    "build_web_url": "https://travis-ci.com/RedHatInsights/edge-frontend/builds/228626341"
+    "build_number": "183",
+    "build_web_url": "https://travis-ci.com/RedHatInsights/edge-frontend/builds/229352747"
   }
 }
