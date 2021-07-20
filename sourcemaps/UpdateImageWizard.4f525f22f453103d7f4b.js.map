@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack:///./src/Routes/ImageManager/UpdateImageWizard.js"],"names":[],"mappings":"kMAMA,QAJ0B,WACxB,OAAO","file":"js/UpdateImageWizard.90789bfbed41a6d21c1b.js","sourcesContent":["import React from 'react';\n\nconst UpdateImageWizard = () => {\n  return <div></div>;\n};\n\nexport default UpdateImageWizard;\n"],"sourceRoot":""}
