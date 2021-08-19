@@ -1,2 +1,2 @@
 (self.webpackChunkinsights_frontend_starter_app=self.webpackChunkinsights_frontend_starter_app||[]).push([[318],{95318:e=>{e.exports=function(e){return e&&e.__esModule?e:{default:e}}}}]);
-//# sourceMappingURL=../sourcemaps/318.2314c500e809388e7f30.js.map
+//# sourceMappingURL=../sourcemaps/318.cc37b9fea5e868a7790d.js.map
