@@ -5,7 +5,7 @@ object-assign
 */
 
 /*!
-  Copyright (c) 2017 Jed Watson.
+  Copyright (c) 2018 Jed Watson.
   Licensed under the MIT License (MIT), see
   http://jedwatson.github.io/classnames
 */
@@ -16,7 +16,7 @@ object-assign
 */
 
 /*!
-* tabbable 5.1.4
+* tabbable 5.2.1
 * @license MIT, https://github.com/focus-trap/tabbable/blob/master/LICENSE
 */
 
@@ -37,7 +37,7 @@ PERFORMANCE OF THIS SOFTWARE.
 
 /*! https://mths.be/punycode v1.3.2 by @mathias */
 
-/** @license React v0.19.1
+/** @license React v0.20.2
  * scheduler.production.min.js
  *
  * Copyright (c) Facebook, Inc. and its affiliates.
