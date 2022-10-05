@@ -1,11 +1,11 @@
 {
     "edge": {
         "entry": [
-            "/beta/apps/edge/edge.1664995298344.77ccc2445ece9fd9f8b6.js"
+            "/beta/apps/edge/edge.1664998181172.90f1c42918fa6fbffcb4.js"
         ],
         "modules": [
-            "/beta/apps/edge/js/3152.1664995298225.77ccc2445ece9fd9f8b6.js",
-            "/beta/apps/edge/css/3152.3e3831959ed88d7f2e0e.css"
+            "/beta/apps/edge/js/152.1664998181048.90f1c42918fa6fbffcb4.js",
+            "/beta/apps/edge/css/152.3e3831959ed88d7f2e0e.css"
         ]
     }
 }
