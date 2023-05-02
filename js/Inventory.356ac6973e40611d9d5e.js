@@ -1,2 +1,0 @@
-"use strict";(self.webpackChunkedge_frontend=self.webpackChunkedge_frontend||[]).push([[8471],{56591:(e,n,t)=>{t.d(n,{Z:()=>s});const s=(0,t(92950).createContext)({})}}]);
-//# sourceMappingURL=../sourcemaps/Inventory.1734678cb8b800b71d32f3602779bf55.js.map
