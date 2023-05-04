@@ -1,14 +1,14 @@
 {
     "edge": {
         "entry": [
-            "/apps/edge/edge.d76bbe58b0b9be0032e0.js"
+            "/beta/apps/edge/edge.789f6a45198a7523900f.js"
         ],
         "modules": [
-            "/apps/edge/js/7569.d76bbe58b0b9be0032e0.js",
-            "/apps/edge/css/7569.757b687bb7c5e41eb6b0.css",
-            "/apps/edge/js/9837.d76bbe58b0b9be0032e0.js",
-            "/apps/edge/css/9837.038b542ee3779a2c2b33.css",
-            "/apps/edge/js/8231.d76bbe58b0b9be0032e0.js"
+            "/beta/apps/edge/js/7569.789f6a45198a7523900f.js",
+            "/beta/apps/edge/css/7569.757b687bb7c5e41eb6b0.css",
+            "/beta/apps/edge/js/9837.789f6a45198a7523900f.js",
+            "/beta/apps/edge/css/9837.038b542ee3779a2c2b33.css",
+            "/beta/apps/edge/js/8231.789f6a45198a7523900f.js"
         ]
     }
 }
