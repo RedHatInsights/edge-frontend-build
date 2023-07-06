@@ -1,25 +1,25 @@
 {
     "edge": {
         "entry": [
-            "/beta/apps/edge/edge.a42a4a12e711a80b632d.js"
+            "/beta/apps/edge/edge.bd1614f9ca8057a3b900.js"
         ],
         "modules": [
-            "/beta/apps/edge/js/869.a42a4a12e711a80b632d.js",
+            "/beta/apps/edge/js/869.bd1614f9ca8057a3b900.js",
             "/beta/apps/edge/css/869.757b687bb7c5e41eb6b0.css",
-            "/beta/apps/edge/js/5797.a42a4a12e711a80b632d.js",
+            "/beta/apps/edge/js/5797.bd1614f9ca8057a3b900.js",
             "/beta/apps/edge/css/5797.038b542ee3779a2c2b33.css",
-            "/beta/apps/edge/js/1790.a42a4a12e711a80b632d.js",
+            "/beta/apps/edge/js/1790.bd1614f9ca8057a3b900.js",
             "/beta/apps/edge/css/1790.84c32ac8bdb52a132514.css",
-            "/beta/apps/edge/js/2968.a42a4a12e711a80b632d.js",
+            "/beta/apps/edge/js/2968.bd1614f9ca8057a3b900.js",
             "/beta/apps/edge/css/2968.482d50f2bea190e99fe1.css",
-            "/beta/apps/edge/js/269.a42a4a12e711a80b632d.js",
-            "/beta/apps/edge/js/8357.a42a4a12e711a80b632d.js",
+            "/beta/apps/edge/js/269.bd1614f9ca8057a3b900.js",
+            "/beta/apps/edge/js/8357.bd1614f9ca8057a3b900.js",
             "/beta/apps/edge/css/8357.038b542ee3779a2c2b33.css",
-            "/beta/apps/edge/js/2587.a42a4a12e711a80b632d.js",
-            "/beta/apps/edge/js/9536.a42a4a12e711a80b632d.js",
+            "/beta/apps/edge/js/2587.bd1614f9ca8057a3b900.js",
+            "/beta/apps/edge/js/9536.bd1614f9ca8057a3b900.js",
             "/beta/apps/edge/css/9536.79790d9eb1e0411625a4.css",
-            "/beta/apps/edge/js/6563.a42a4a12e711a80b632d.js",
-            "/beta/apps/edge/js/8391.a42a4a12e711a80b632d.js",
+            "/beta/apps/edge/js/6563.bd1614f9ca8057a3b900.js",
+            "/beta/apps/edge/js/8391.bd1614f9ca8057a3b900.js",
             "/beta/apps/edge/css/8391.482d50f2bea190e99fe1.css"
         ]
     }
