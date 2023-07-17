@@ -1,14 +1,14 @@
 {
   "app_name": "edge",
   "node_version": ">=16.13.0",
-  "src_hash": "d0de0e78bc89e7c65e337dc8c8e46c6d176f7bd2",
+  "src_hash": "016ecb661dbad360915dbd6ef122b9e0add024df",
   "src_tag": "",
   "src_branch": "prod-beta",
   "patternfly_dependencies": ["@patternfly/patternfly@4.222.4","@patternfly/quickstarts@2.3.2","@patternfly/react-charts@6.94.15","@patternfly/react-core@4.267.6","@patternfly/react-icons@4.93.3","@patternfly/react-styles@4.92.3","@patternfly/react-table@4.112.6","@patternfly/react-tokens@4.94.3"],
-  "rh_cloud_services_dependencies": ["@redhat-cloud-services/frontend-components@3.9.29","@redhat-cloud-services/frontend-components-notifications@3.2.12","@redhat-cloud-services/frontend-components-utilities@3.5.0","@redhat-cloud-services/host-inventory-client@1.2.0"],
+  "rh_cloud_services_dependencies": ["@redhat-cloud-services/frontend-components@3.9.29","@redhat-cloud-services/frontend-components-notifications@3.2.12","@redhat-cloud-services/frontend-components-utilities@3.5.0","@redhat-cloud-services/host-inventory-client@1.2.3"],
   "travis": {
     "event_type": "push",
-    "build_number": "2266",
-    "build_web_url": "https://app.travis-ci.com/RedHatInsights/edge-frontend/builds/262806510"
+    "build_number": "2397",
+    "build_web_url": "https://app.travis-ci.com/RedHatInsights/edge-frontend/builds/264570869"
   }
 }
