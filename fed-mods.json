@@ -1,27 +1,27 @@
 {
     "edge": {
         "entry": [
-            "/beta/apps/edge/edge.b3e84991ec3099cbd214.js"
+            "/beta/apps/edge/edge.197ff59b1ccf02f6643b.js"
         ],
         "modules": [
-            "/beta/apps/edge/js/2611.b3e84991ec3099cbd214.js",
+            "/beta/apps/edge/js/2611.197ff59b1ccf02f6643b.js",
             "/beta/apps/edge/css/2611.9fcddec5443a57e0e7b3.css",
-            "/beta/apps/edge/js/3939.b3e84991ec3099cbd214.js",
+            "/beta/apps/edge/js/3939.197ff59b1ccf02f6643b.js",
             "/beta/apps/edge/css/3939.038b542ee3779a2c2b33.css",
-            "/beta/apps/edge/js/8694.b3e84991ec3099cbd214.js",
+            "/beta/apps/edge/js/8694.197ff59b1ccf02f6643b.js",
             "/beta/apps/edge/css/8694.84c32ac8bdb52a132514.css",
-            "/beta/apps/edge/js/7906.b3e84991ec3099cbd214.js",
+            "/beta/apps/edge/js/7906.197ff59b1ccf02f6643b.js",
             "/beta/apps/edge/css/7906.482d50f2bea190e99fe1.css",
-            "/beta/apps/edge/js/1230.b3e84991ec3099cbd214.js",
-            "/beta/apps/edge/js/2836.b3e84991ec3099cbd214.js",
+            "/beta/apps/edge/js/1230.197ff59b1ccf02f6643b.js",
+            "/beta/apps/edge/js/2836.197ff59b1ccf02f6643b.js",
             "/beta/apps/edge/css/2836.038b542ee3779a2c2b33.css",
-            "/beta/apps/edge/js/4570.b3e84991ec3099cbd214.js",
+            "/beta/apps/edge/js/4570.197ff59b1ccf02f6643b.js",
             "/beta/apps/edge/css/4570.6cb3457d1c68dc949134.css",
-            "/beta/apps/edge/js/8369.b3e84991ec3099cbd214.js",
-            "/beta/apps/edge/js/239.b3e84991ec3099cbd214.js",
+            "/beta/apps/edge/js/8369.197ff59b1ccf02f6643b.js",
+            "/beta/apps/edge/js/239.197ff59b1ccf02f6643b.js",
             "/beta/apps/edge/css/239.79790d9eb1e0411625a4.css",
-            "/beta/apps/edge/js/7514.b3e84991ec3099cbd214.js",
-            "/beta/apps/edge/js/3081.b3e84991ec3099cbd214.js",
+            "/beta/apps/edge/js/7514.197ff59b1ccf02f6643b.js",
+            "/beta/apps/edge/js/3081.197ff59b1ccf02f6643b.js",
             "/beta/apps/edge/css/3081.482d50f2bea190e99fe1.css"
         ]
     }
