@@ -1,36 +1,36 @@
 {
     "edge": {
         "entry": [
-            "/apps/edge/edge.0124bcc2a6b25d5335be.js"
+            "/apps/edge/edge.f25982d4fb1cfaa19b3c.js"
         ],
         "modules": [
-            "/apps/edge/js/2611.0124bcc2a6b25d5335be.js",
+            "/apps/edge/js/2611.f25982d4fb1cfaa19b3c.js",
             "/apps/edge/css/2611.9fcddec5443a57e0e7b3.css",
-            "/apps/edge/js/3939.0124bcc2a6b25d5335be.js",
+            "/apps/edge/js/3939.f25982d4fb1cfaa19b3c.js",
             "/apps/edge/css/3939.038b542ee3779a2c2b33.css",
-            "/apps/edge/js/8694.0124bcc2a6b25d5335be.js",
+            "/apps/edge/js/8694.f25982d4fb1cfaa19b3c.js",
             "/apps/edge/css/8694.84c32ac8bdb52a132514.css",
-            "/apps/edge/js/5694.0124bcc2a6b25d5335be.js",
+            "/apps/edge/js/5694.f25982d4fb1cfaa19b3c.js",
             "/apps/edge/css/5694.482d50f2bea190e99fe1.css",
-            "/apps/edge/js/9087.0124bcc2a6b25d5335be.js",
-            "/apps/edge/js/2836.0124bcc2a6b25d5335be.js",
+            "/apps/edge/js/9087.f25982d4fb1cfaa19b3c.js",
+            "/apps/edge/js/2836.f25982d4fb1cfaa19b3c.js",
             "/apps/edge/css/2836.038b542ee3779a2c2b33.css",
-            "/apps/edge/js/4570.0124bcc2a6b25d5335be.js",
+            "/apps/edge/js/4570.f25982d4fb1cfaa19b3c.js",
             "/apps/edge/css/4570.6cb3457d1c68dc949134.css",
-            "/apps/edge/js/1318.0124bcc2a6b25d5335be.js",
-            "/apps/edge/js/1286.0124bcc2a6b25d5335be.js",
-            "/apps/edge/js/8915.0124bcc2a6b25d5335be.js",
+            "/apps/edge/js/1318.f25982d4fb1cfaa19b3c.js",
+            "/apps/edge/js/1286.f25982d4fb1cfaa19b3c.js",
+            "/apps/edge/js/8915.f25982d4fb1cfaa19b3c.js",
             "/apps/edge/css/8915.038b542ee3779a2c2b33.css",
-            "/apps/edge/js/7920.0124bcc2a6b25d5335be.js",
+            "/apps/edge/js/7920.f25982d4fb1cfaa19b3c.js",
             "/apps/edge/css/7920.038b542ee3779a2c2b33.css",
-            "/apps/edge/js/8524.0124bcc2a6b25d5335be.js",
+            "/apps/edge/js/8524.f25982d4fb1cfaa19b3c.js",
             "/apps/edge/css/8524.038b542ee3779a2c2b33.css",
-            "/apps/edge/js/289.0124bcc2a6b25d5335be.js",
+            "/apps/edge/js/289.f25982d4fb1cfaa19b3c.js",
             "/apps/edge/css/289.79790d9eb1e0411625a4.css",
-            "/apps/edge/js/8774.0124bcc2a6b25d5335be.js",
-            "/apps/edge/js/1540.0124bcc2a6b25d5335be.js",
+            "/apps/edge/js/8774.f25982d4fb1cfaa19b3c.js",
+            "/apps/edge/js/1540.f25982d4fb1cfaa19b3c.js",
             "/apps/edge/css/1540.482d50f2bea190e99fe1.css",
-            "/apps/edge/js/8627.0124bcc2a6b25d5335be.js"
+            "/apps/edge/js/8627.f25982d4fb1cfaa19b3c.js"
         ]
     }
 }
